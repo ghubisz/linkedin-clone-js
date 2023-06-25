@@ -139,6 +139,19 @@ a{
     font-weight: 500;
     color: #777;
 }
+.sidebar-profile-info ul{
+    list-style: none;
+    margin: 20px 0;
+}
+.sidebar-profile-info ul li{
+    width: 100%;
+    margin: 5px 0;
+    font-size: 13px;
+}
+.sidebar-profile-info ul li span{
+    float: right;
+    color: #045be6;
+}
 
 /*-------------------right sidebar------------*/
 .right-sidebar{
