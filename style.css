@@ -373,3 +373,7 @@ a{
     font-weight: 600;
     cursor: pointer;
 }
+.sort-by p span img{
+    width: 12px;
+    margin-left: 3px;
+}
