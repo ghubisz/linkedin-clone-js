@@ -239,6 +239,12 @@ a{
 .sidebar-news span{
     font-size: 12px;
 }
+.sidebar-news .read-more-link{
+    color: #045be6;
+    font-weight: 500;
+    margin: 20px 0 10px;
+}
+
 /*-------------------main content------------*/
 .main-content{
     flex-basis: 47%;
