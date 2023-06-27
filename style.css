@@ -304,3 +304,6 @@ a{
 .main-content{
     flex-basis: 47%;
 }
+.create-post{
+    background: #fff;
+}
