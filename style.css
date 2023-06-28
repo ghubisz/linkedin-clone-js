@@ -446,3 +446,7 @@ a{
     width: 12px;
     margin-left: 5px;
 }
+.post-activity-link img{
+    width: 18px;
+    margin-right: 8px;
+}
