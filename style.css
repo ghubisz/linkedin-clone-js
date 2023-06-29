@@ -521,7 +521,7 @@ a{
     flex-basis: 25%;
     align-self: flex-start;
     position: sticky;
-    top: 73%;
+    top: 73px;
 }
 .profile-container{
     background: #fff;
@@ -653,4 +653,8 @@ a{
     background:#e4e6eb;
     font-size: 12px;
     font-weight: 500;
+}
+/*--------------profile-right-sidebar--------*/
+.profile-sidebar .sidebar-ad{
+    margin: 0;
 }
