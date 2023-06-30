@@ -743,4 +743,30 @@ a{
     .post-activity-link img{
         margin-right: 0;
     }
+    .profile-main, .profile-sidebar{
+        flex-basis: 100%;
+    }
+    .profile-container{
+        font-size: 14px;
+    }
+    .profile-pic{
+        width: 100px;
+        margin-top: -50px;
+    }
+    .profile-description{
+        font-size: 14px;
+    }
+    #showMoreLink{
+        display: block;
+        width: fit-content;
+        margin: 10px auto;
+        font-size: 14px;
+        cursor: pointer;
+    }
+    .sidebar-activity{
+        display: none;
+    }
+    .sidebar-activity .open-activity{
+        display: block;
+    }
 }
